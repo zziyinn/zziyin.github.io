@@ -9,14 +9,29 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. student in the interdisciplinary [Computational Science and Engineering](https://cse.gatech.edu/) program at Georgia Tech, where I am fortunate to be advised by [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell) from the Laboratory for Pathology Dynamics. Previously, I earned my M.S. in the same major under the joint supervision of [Prof. B. Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/) and [Prof. Lauren N. Steimle](https://sites.gatech.edu/steimle/), focusing on WiFi networks, mobility data, and Covid-19 models. I also completed internships at [Tesla](https://tesla.com/), working on the networking planning of superchargers, and at [Berkeley Lab](https://www.lbl.gov/), working on large-scale representative thermodynamic models.
 
-My academic background includes studies in Economics and Mathematics, leading to the attainment of my BS from Presbyterian College, SC, United States.
+I am currently pursuing a Master’s in [Information Science](https://sils.unc.edu/master-of-science-in-information-science-msis/) at the School of Information and Library Science (SILS) at UNC-Chapel Hill. My academic journey began with a Bachelor's degree in Economics and Business from the University of Hertfordshire in the UK.
 
-A key focus of my Ph.D. research is the examination of the dynamics involved in various social, physical, and pathological processes. These dynamics can be understood as networks and perturbations, which play crucial roles. These networks can represent diverse connections, including those that are online, sparse or expensive to approximate and maintain. I am particularly interested in exploring whether it is possible to reverse-engineer a model that simulates real-world processes on these networks in order to complete the networks, re-establish their progression, or generate new data. This area of research continues to be a significant focus of my Ph.D. program.
+**At the crossroads of business and data modeling, with unstoppable passion, I translate information into actionable insights, empowering innovation and driving growth.**
+
+How I started my journey:
+
+My journey began in the field of business. As I gained insight into how companies operate and how management decisions affect performance. I quickly realized that many decisions were not just based on intuition or experience, but also on insights gained from data and analytics.
+
+While working as an analyst intern, I began to see the great potential of data. Not only could data explain past trends, but it could also predict future outcomes. I realized that data analytics can provide more accurate decision support than traditional business analysis. It can uncover hidden opportunities, optimize processes, and even enhance the customer experience. This realization led to my decision to move from a business-centric to a data-centric career.
+
+To further develop my data analytics skills, I pursued a master's degree in information science at the University of North Carolina at Chapel Hill. There, I immersed myself in advanced technologies such as machine learning, database development, and natural language processing. In addition to mastering these technical tools, my business background gives me a unique perspective - I can understand the real-world needs and challenges companies face when it comes to data analytics.
+
+As a data analyst with a business foundation, I have the best of both worlds. I think strategically about data analysis and understand how data aligns with business objectives. Additionally, I have the ability to translate complex technical findings into actionable business insights, and looking forward, my goal is to utilize my unique skill set to help companies make smarter data-driven decisions that drive growth and success.
 
 
-<span style="color: red"> Our lab will hire one master or bachelor student as a short-term research assistant for the project of Score-based Network Diffusion Models for Connectomes Dynamics under Neurodegeneration for Spring 2025. Please see the [job description](https://docs.google.com/document/d/1LP-zkn3ZYpa--gsa2nxP8a6LTyTPWJOMLnEie77xCfI/edit) and drop me an email if you are interested.   </span>
+**TECHNICAL SKILLS**
+Languages: Python, R, SQL, SAS, JavaScript, AMPL, Java
+Developer Tools: VS Code, Jupyter, Git, Linux, GitHub, R-Studio, MATLAB, Tableau
+Platforms: PyTorch, Tensorflow, Hadoop, Spark, DBeaver, PostgreSQL, AWS, Azure
+Algorithms: Data Structures & Algorithms, Linear/Integer/Convex Optimization, Bayesian Inference
+
+**My Projects**
 
 * **Generative Models of Brain Connectomes under Neurological Diseases**: 
   - Network Diffusion Constrained Variational Generative Models: Under Reviews!
@@ -42,5 +57,5 @@ Outside of research, I am a dreamer, a reader, and an audience of musicals, spor
 
 ### Contact Me
 
-* My email address is jxie{at}gatech{dot}edu.
-<!-- * My full CV is [here](https://). (Updated ) -->
+* My email address is zziyin@unc.edu.
+* My full CV is [here](https://zziyin.github.io/files/ZiyinZheng_resume.pdf). (Updated by 9/16/2024 ) 
