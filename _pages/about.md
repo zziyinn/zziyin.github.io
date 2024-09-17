@@ -20,12 +20,9 @@ As a data analyst with a business foundation, I have the best of both worlds. I 
 **TECHNICAL SKILLS**
 
 Languages: Python, R, SQL, SAS, JavaScript, AMPL, Java
-
 Developer Tools: VS Code, Jupyter, Git, Linux, GitHub, R-Studio, MATLAB, Tableau
-
 Platforms: PyTorch, Tensorflow, Hadoop, Spark, DBeaver, PostgreSQL, AWS
-
-Modeling & Algorithms: Data Structures, Linear/Integer/Convex Optimization, Decision Trees, Random Forest, SVM
+Modeling & Algorithms: Data Structures, Linear/Convex Optimization, Decision Trees, Random Forest, SVM
 
 
 **My Projects**
